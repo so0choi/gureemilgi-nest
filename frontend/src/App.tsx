@@ -1,4 +1,3 @@
-import { Box, Grid, Paper } from '@material-ui/core';
 import { useCallback, useEffect, useState } from 'react';
 import Header from './components/Header';
 import Diary from './components/Diary';

@@ -35,7 +35,6 @@ function Header() {
           <Typography variant="h6" className={classes.title}>
             Gureemilgi
           </Typography>
-
           <IconButton color="inherit">
             <AccountCircleIcon />
           </IconButton>
